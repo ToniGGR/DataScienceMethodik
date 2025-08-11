@@ -1,0 +1,18 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{Abkürzungsverzeichnis}{III}{section*.1}%
+\contentsline {section}{Glossar}{IV}{section*.2}%
+\contentsline {section}{Abbildungsverzeichnis}{V}{section*.3}%
+\contentsline {section}{\numberline {1}Max}{1}{section.1}%
+\contentsline {section}{\numberline {2}Anton}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Realisierungsplan}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Chancen und Risiken}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Produkt}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Markt}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Recht}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Wettbewerber}{5}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Marketing \& Vertrieb}{5}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Finanzplanung}{6}{subsubsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.3}Finanzplan}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Jeremy}{7}{section.3}%
+\contentsline {section}{Literatur}{8}{section*.4}%
+\contentsline {section}{Selbständigkeitserklärung Anton Geiger}{9}{section*.4}%
