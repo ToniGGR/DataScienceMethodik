@@ -453,13 +453,54 @@ INPUT ./chapter/Anton.tex
 INPUT chapter/Anton.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT ./images/Umsatz und Jahresueberschuss.png
+INPUT ./images/Umsatz und Jahresueberschuss.png
+INPUT ./images/Umsatz und Jahresueberschuss.png
+INPUT ./images/Umsatz und Jahresueberschuss.png
+INPUT ./images/Umsatz und Jahresueberschuss.png
+INPUT ./images/Personalplanungen.png
+INPUT ./images/Personalplanungen.png
+INPUT ./images/Personalplanungen.png
+INPUT ./images/Personalplanungen.png
+INPUT ./images/Personalplanungen.png
+INPUT ./images/Cash Flow per Zeit.png
+INPUT ./images/Cash Flow per Zeit.png
+INPUT ./images/Cash Flow per Zeit.png
+INPUT ./images/Cash Flow per Zeit.png
+INPUT ./images/Cash Flow per Zeit.png
+INPUT ./images/Deckungsbeitrag Hochlauf.png
+INPUT ./images/Deckungsbeitrag Hochlauf.png
+INPUT ./images/Deckungsbeitrag Hochlauf.png
+INPUT ./images/Deckungsbeitrag Hochlauf.png
+INPUT ./images/Deckungsbeitrag Hochlauf.png
+INPUT ./images/Q1 2027 Anteil Umsatz.png
+INPUT ./images/Q1 2027 Anteil Umsatz.png
+INPUT ./images/Q1 2027 Anteil Umsatz.png
+INPUT ./images/Q1 2027 Anteil Umsatz.png
+INPUT ./images/Q1 2027 Anteil Umsatz.png
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT ./images/Q4 2028 Anteil Umsatz.png
+INPUT ./images/Q4 2028 Anteil Umsatz.png
+INPUT ./images/Q4 2028 Anteil Umsatz.png
+INPUT ./images/Q4 2028 Anteil Umsatz.png
+INPUT ./images/Q4 2028 Anteil Umsatz.png
+INPUT ./images/Kapital.png
+INPUT ./images/Kapital.png
+INPUT ./images/Kapital.png
+INPUT ./images/Kapital.png
+INPUT ./images/Kapital.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT ./chapter/Jeremy.tex
 INPUT ./chapter/Jeremy.tex
 OUTPUT chapter/Jeremy.aux
