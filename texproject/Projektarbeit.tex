@@ -55,9 +55,13 @@
 \usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm,includehead]{geometry}      % Einstellungen der Seitenränder
 %\usepackage{ngerman}                                                          % neue Rechtschreibung
 \usepackage{mathptmx}
+\usepackage{acronym}
 \usepackage[ngerman]{babel}                                                   % deutsche Silbentrennung
 \usepackage{textgreek}
-\usepackage[utf8]{inputenc}                                                   % Umlaute
+\usepackage[utf8]{inputenc}
+\usepackage[table,xcdraw]{xcolor}  
+\usepackage{pdflscape}   
+\usepackage{rotating}                                              % Umlaute
 \usepackage{booktabs} % Für \toprule, \midrule und \bottomrule
 \usepackage{array}    % Für die p{}-Spalten
 \usepackage{geometry} % Optional, für die Seitengröße
@@ -113,16 +117,16 @@
 
 %%%%%%%%%%%%%%%%%%%%%%% Definitionen bzgl. der Arbeit %%%%%%%%%%%%%%%%%%%%%%%
 \def\myType{0}           % [0=Seminararbeit|1=Projektarbeit|2=Bachelorarbeit]
-\def\myTopic{Advanced Machine Learning Project Time Series Analysis}
+\def\myTopic{Data Science- Methodik: Angewandte Geschäftsmodelle}
 %\def\myMatrNr {}
 \def\myKurs{WWIDS122}
-\def\mySubTopic{}
-\def\myAutor{Anton Geiger}
+\def\mySubTopic{Business Plan KARL Diagnostics}
+\def\myAutor{Max Müller, Jeremy Barenkamp, Anton Geiger}
 %\def\myCompany{Festo SE \& Co KG}
 %\def\myCompanyAddressStreet{Ruiter Straße 82}
 %\def\myCompanyAddressCity{73734 Esslingen Berkheim}
 \def\myProf{Prof. Dr. Martin Zaefferer}
-\def\myEndDate{31.9.2025}
+\def\myEndDate{30.9.2025}
 
 %%%%%%%%%%%%%%%%%%%% Folgende Angaben für: Seminararbeit %%%%%%%%%%%%%%%%%%%%
 \def\myVorlesung{Machine Learning Project}
@@ -299,9 +303,10 @@
 	\fancyhead[L]{\nouppercase{\leftmark}}                               % Kopfzeile links bzw. innen
 	\pagenumbering{arabic}
 	\include{chapter/20_kapitel}
-    \include{chapter/Max}
-    \include{chapter/Anton}
     \include{chapter/Jeremy}
+	\include{chapter/Max}
+    \include{chapter/Anton}
+    
 	
 	% Anhang
 	\renewcommand{\thetable}{\Alph{section}.\arabic{table}}              % Tabellennummerierung mit Section
