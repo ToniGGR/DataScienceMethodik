@@ -1,65 +1,70 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{Abkürzungsverzeichnis}{IV}{section*.1}%
-\contentsline {section}{Glossar}{V}{section*.2}%
-\contentsline {section}{Abbildungsverzeichnis}{VI}{section*.3}%
-\contentsline {section}{\numberline {1}Jeremy}{1}{section.1}%
-\contentsline {section}{\numberline {2}Marketing und Vertrieb}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Ausgangslage und Positionierung}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Business Model Canvas}{2}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Customer Segments}{2}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Value Propositions}{2}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Channels}{3}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Customer Relationships}{3}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.5}Revenue Streams}{3}{subsubsection.2.2.5}%
-\contentsline {subsubsection}{\numberline {2.2.6}Key Resources}{4}{subsubsection.2.2.6}%
-\contentsline {subsubsection}{\numberline {2.2.7}Key Activities}{4}{subsubsection.2.2.7}%
-\contentsline {subsubsection}{\numberline {2.2.8}Key Partnerships}{4}{subsubsection.2.2.8}%
-\contentsline {subsubsection}{\numberline {2.2.9}Cost Structure}{4}{subsubsection.2.2.9}%
-\contentsline {subsection}{\numberline {2.3}Das Magische Dreieck des Geschäftsmodells}{5}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Ausgangspunkt und Zweck}{5}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Wer? Zielkunden}{5}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Was? Nutzenversprechen}{5}{subsubsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.4}Wie? Wertschöpfungskette}{6}{subsubsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.5}Wert? Ertragsmechanik}{6}{subsubsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.6}Implikationen für die Gestaltung}{6}{subsubsection.2.3.6}%
-\contentsline {subsection}{\numberline {2.4}Marketing-Mix (4P) für KARL}{7}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Product}{7}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Price}{7}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Place}{7}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Promotion}{7}{subsubsection.2.4.4}%
-\contentsline {section}{\numberline {3}Geschäftsmodell und Organisation}{8}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Wertlogik und Erlösströme}{8}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Kostenstruktur und Skalierung}{8}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Kernprozesse und Qualitätsmanagement}{8}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Partnerökosystem und Integration}{8}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Organisation und Steuerung}{9}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Internationalisierung}{9}{subsection.3.6}%
-\contentsline {section}{\numberline {4}Team}{10}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Kompetenzprofil des Kernteams}{10}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Rollen und Zuständigkeiten}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Einstellungsfahrplan}{11}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Führung und Kultur}{11}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Compliance und Qualifizierung}{11}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Realisierungsplan}{12}{section.5}%
-\contentsline {section}{\numberline {6}Chancen und Risiken}{14}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Produkt}{14}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Markt}{14}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Rechtliche Aspekte}{15}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Wettbewerber}{16}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Marketing \& Vertrieb}{16}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}Finanzierung}{16}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Strategische Ausrichtung}{17}{subsection.6.7}%
-\contentsline {section}{\numberline {7}Finanzplan}{18}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Hintergr"unde und Annahmen}{18}{subsection.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.1}Ertragsmodell}{18}{subsubsection.7.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.2}Annahmen}{18}{subsubsection.7.1.2}%
-\contentsline {subsection}{\numberline {7.2}Gewinn und Verlustrechnung}{19}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Personalkosten}{20}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Cashflow Planungen}{21}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Profitabilit"at}{22}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Kapitalverlauf}{23}{subsection.7.6}%
-\contentsline {section}{\numberline {8}Anhang}{24}{section.8}%
-\contentsline {section}{Literatur}{42}{section*.35}%
-\contentsline {section}{Selbständigkeitserklärung Max Müller}{44}{section*.35}%
-\contentsline {section}{Selbständigkeitserklärung Jeremy Barenkamp}{45}{section*.35}%
-\contentsline {section}{Selbständigkeitserklärung Anton Geiger}{46}{section*.35}%
+\contentsline {section}{Abkürzungsverzeichnis}{V}{section*.1}%
+\contentsline {section}{Abbildungsverzeichnis}{VI}{section*.2}%
+\contentsline {section}{\numberline {1}Executive Summary}{1}{section.1}%
+\contentsline {section}{\numberline {2}Produkt \& Dienstleistung}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Problem \& Nutzenversprechen}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Produktübersicht: Hardware + Cloud-Software}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}KI-Ansatz \& Erklärbarkeit}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Markt und Wettbewerb}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Wettbewerbsumfeld und potentielle Konkurrenten}{10}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Marketing und Vertrieb}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ausgangslage und Positionierung}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Business Model Canvas}{12}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Customer Segments}{12}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Value Propositions}{12}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Channels}{13}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Customer Relationships}{13}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Revenue Streams}{13}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}Key Resources}{14}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}Key Activities}{14}{subsubsection.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.8}Key Partnerships}{14}{subsubsection.4.2.8}%
+\contentsline {subsubsection}{\numberline {4.2.9}Cost Structure}{14}{subsubsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.3}Das Magische Dreieck des Geschäftsmodells}{15}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Ausgangspunkt und Zweck}{15}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Wer? Zielkunden}{15}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Was? Nutzenversprechen}{15}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Wie? Wertschöpfungskette}{16}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Wert? Ertragsmechanik}{16}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Implikationen für die Gestaltung}{16}{subsubsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.4}Marketing-Mix (4P) für KARL}{17}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Product}{17}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Price}{17}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Place}{17}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Promotion}{17}{subsubsection.4.4.4}%
+\contentsline {section}{\numberline {5}Geschäftsmodell und Organisation}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Wertlogik und Erlösströme}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Kostenstruktur und Skalierung}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Kernprozesse und Qualitätsmanagement}{18}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Partnerökosystem und Integration}{18}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Organisation und Steuerung}{19}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Internationalisierung}{19}{subsection.5.6}%
+\contentsline {section}{\numberline {6}Team}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Kompetenzprofil des Kernteams}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Rollen und Zuständigkeiten}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Einstellungsfahrplan}{21}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Führung und Kultur}{21}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Compliance und Qualifizierung}{21}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Realisierungsplan}{22}{section.7}%
+\contentsline {section}{\numberline {8}Chancen und Risiken}{24}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Produkt}{24}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Markt}{24}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Rechtliche Aspekte}{25}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Wettbewerber}{26}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Marketing \& Vertrieb}{26}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Finanzierung}{26}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Strategische Ausrichtung}{27}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Finanzplan}{28}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Hintergr"unde und Annahmen}{28}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Ertragsmodell}{28}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Annahmen}{28}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}Gewinn und Verlustrechnung}{29}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Personalkosten}{30}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Cashflow Planungen}{31}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Profitabilit"at}{32}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Kapitalverlauf}{33}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Anhang}{34}{section.10}%
+\contentsline {section}{Literatur}{52}{section*.58}%
+\contentsline {section}{Selbständigkeitserklärung Max Müller}{55}{section*.58}%
+\contentsline {section}{Selbständigkeitserklärung Jeremy Barenkamp}{56}{section*.58}%
+\contentsline {section}{Selbständigkeitserklärung Anton Geiger}{57}{section*.58}%

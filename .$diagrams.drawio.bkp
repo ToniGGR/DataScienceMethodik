@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Seite-1" id="0yuiAkyS0OjKzCKibhIW">
+    <mxGraphModel dx="2893" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2-2wJej60KvCBfdhlRf-2" value="&lt;div&gt;Chance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;- Plattform schafft Netzeffekte&lt;div&gt;- Integration primaerdaten von Automobilhersteller&lt;/div&gt;&lt;div&gt;- Übertragbarkeit des Geschaeftsmodells&lt;/div&gt;&lt;div&gt;- Bedarf an Effizienz steigt durch OTA&lt;/div&gt;&lt;div&gt;- Netzwerkeffekte durch mehr Wissensteilung&lt;/div&gt;&lt;div&gt;- Komplexität des Nachahmens&lt;/div&gt;&lt;div&gt;- Monopolstellung durch Plattform --&amp;gt; Eigene Protokolle entwickeln und Upselling&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-3" value="&lt;div&gt;Risiken&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- potenzielle geringe Datenqualität in Foren&lt;/div&gt;&lt;div&gt;- Mehr OTA Updates&lt;/div&gt;&lt;div&gt;- Geringes Interesse and Daten Teilen&lt;/div&gt;&lt;div&gt;-&amp;nbsp; Rechtliche Aspekte&lt;/div&gt;&lt;div&gt;- Kopie der Automobilhersteller&lt;/div&gt;&lt;div&gt;- Expansion schwierig bei geringer Personalkosten&lt;/div&gt;&lt;div&gt;- B2C Expansion Zielkonflikt&lt;/div&gt;&lt;div&gt;- Verschuldung aufgrund Kapitalintensivitaet&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="160" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-4" value="&lt;div&gt;Stärken:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Herstellerunabhängigkeit&lt;/div&gt;&lt;div&gt;- Viele Datenquellen&lt;/div&gt;&lt;div&gt;- First Mover am Markt&lt;/div&gt;&lt;div&gt;- Flexible Produktentwicklung&lt;/div&gt;&lt;div&gt;- Grenzkosten durch Abomodell relativ niedrig&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="440" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-5" value="&lt;div&gt;Schwächen:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Unerfahren&lt;/div&gt;&lt;div&gt;- kein Kapital vorhanden&lt;/div&gt;&lt;div&gt;- keine Erfahrung&lt;/div&gt;&lt;div&gt;- Teure Produkte&amp;nbsp;&lt;/div&gt;&lt;div&gt;- kleines Team&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="720" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-6" value="&lt;div&gt;SO Strategie:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Durch die breite Herstellerunabhängigkeiit als USP eine breite Plattform schaffen auf denen viele Werkstaetten nutzen kann&lt;/div&gt;&lt;div&gt;- Ausbreitung auf andere, ähnliche Märkte wie Flugzeug oder Schiffahrt&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Pflege direkten Kundenkontaktes und ständige Einbindung der Kunden in bezug auf Qualität des Produktes&lt;/div&gt;&lt;div&gt;- Preise für die Geräte relativ gering halten und mit den Abonnements stetig Geld verdienen&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="440" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-7" value="SR Stategie:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Erstrebung von sehr vielen verschiedenen Datenquellen&lt;/div&gt;&lt;div&gt;- Aktives Herausnehmen von falschen Datenquellen&lt;/div&gt;&lt;div&gt;- Direkt versuchen langfristig eine Nachaltige Plattform zu erschaffen um nicht mehr ersetzbar zu sein&lt;/div&gt;&lt;div&gt;- Patente erwerven&lt;/div&gt;&lt;div&gt;- Fokus auf grosse Werkstaette in Europa&lt;/div&gt;&lt;div&gt;- Fokus auf Abo verkauf und keine eigenständige Produktion der Geraete&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="440" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-8" value="&lt;div&gt;WO Strategie:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Kooperationen mit Automobilherstellern oder Forenseiten eingehen&lt;/div&gt;&lt;div&gt;- Produkte relativ billig anbieten sodass viele Nutzer auf die Plattform kommen&lt;/div&gt;&lt;div&gt;- Beschaffung von viel Fremdkapital oder Eigenkapital durch Investoren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="720" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2-2wJej60KvCBfdhlRf-9" value="&lt;div&gt;WR Strategie:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- kein grosser Personalaufbau sodass die Wirtschaftlichkeit erst langsam kommt und die Kosten nicht zu stark steigen&lt;/div&gt;&lt;div&gt;- Eingang von Kooperationen&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="720" width="240" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
