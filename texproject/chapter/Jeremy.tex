@@ -6,7 +6,7 @@ Für freie und markengebundene Werkstätten, Serviceketten, mobile Mechaniker, F
 Der Markt wird getrieben von Elektrifizierung, softwaredefinierten Fahrzeugen und verschärften Vorgaben, somit steigt die Nachfrage nach \ac{SaaS}-Diagnose. \ac{KARL}s Go-to-Market startet mit Pilotierungen in DACH, Referenzkunden und Content-Marketing, gefolgt von schrittweiser Expansion in Europa. Vertrieblich kombinieren wir direkten \ac{B2B}-Verkauf mit Partnernetzwerken und technischen Kooperationen; integrationsseitig setzen wir auf Plug-and-Play in bestehenden Werkstattprozessen. Das Geschäftsmodell ist hybrid: einmalige Hardwareerlöse plus skalierbare Software-Abonnements pro Arbeitsplatz, ergänzt um Schulungen und Support. Kurzfristig investieren wir in Produktreife, Datenqualität, Zertifizierungen und Markteintritt; mittelfristig tragen Lizenzerlöse den größten Umsatzanteil bei bewusst margenträchtiger, aber nicht dominanter Hardware. Die Profitabilität ist nach ca. 2,5 Jahren geplant; zur Überbrückung negativer Cashflows sind Kredite von insgesamt rund 450.000 € vorgesehen.
 \newline\newline
 Hardware- und Software-\ac{MVP} bilden den Realisierungsplan, angfangen bei Auslieferung in kleinen Stückzahlen an Pilotkunden, schnelles Iterieren von Design, Funktionen und Produktionsprozessen, paralleler Aufbau der Fertigung und Akquise erster Kunden. Nach rund zwölf Monaten folgt der Markteintritt in Deutschland mit Fokus auf kleinere Werkstätten; anschließend breiteres Marketing, europäische Skalierung und perspektivisch eine selektive Öffnung Richtung \ac{B2C}. Chancen liegen in Netzwerkeffekten, Übertragbarkeit in angrenzende Domänen und dem wachsenden Bedarf an Diagnose-Know-how durch neue Antriebstechnologien. Risiken (Datenqualität, Zurückhaltung beim Wissensaustausch, rechtliche Fragen zur Datennutzung, \ac{OEM}-Wettbewerb, Investitionsbedarf) begegnen wir mit zusätzlichen Datenquellen, gezielten Roll-outs, Anreizsystemen, technischer Differenzierung und einer stringenten Partnerwahl. Operativ sichern agile Entwicklung, Qualitätsmanagement, Partnerintegration und internationale Skalierbarkeit die Umsetzung. Ein interdisziplinäres Kernteam aus Entwicklung, Data, Vertrieb und Einkauf gewährleistet schnelle Produktreife, Kundennähe und Lieferfähigkeit – flankiert von geplantem Teamausbau, Schulungen, Compliance-Prozessen und einer lernorientierten Kultur.
-
+\newpage
 \section{Produkt \& Dienstleistung}
 \label{sec:produkt}
 
@@ -40,7 +40,7 @@ Die Fahrzeug-Schnittstelle ist robust, steckfertig und für den harten Dauerbetr
     \label{fig:obd_comparison}
 \end{figure}
 
-Abbildung \ref{fig:obd_comparison} zeigt die beiden unterschiedlichen Systeme im Detail. Beim \ac{OBD}-II Kabel mit USB-Anschluss wird typischerweise ein Protokollcontroller wie der ELM327 oder der leistungsfähigere STN1110 eingesetzt. Diese unterstützen die gängigen \ac{OBD}-II Standards (CAN, ISO9141, KWP2000, J1850). Für die Anbindung an den PC wird zusätzlich ein USB-zu-Seriell-Wandler wie der FT232RL, CH340G oder CP2102 verwendet.  
+\textbf{Abb. \ref{fig:obd_comparison}} zeigt die beiden unterschiedlichen Systeme im Detail. Beim \ac{OBD}-II Kabel mit USB-Anschluss wird typischerweise ein Protokollcontroller wie der ELM327 oder der leistungsfähigere STN1110 eingesetzt. Diese unterstützen die gängigen \ac{OBD}-II Standards (CAN, ISO9141, KWP2000, J1850). Für die Anbindung an den PC wird zusätzlich ein USB-zu-Seriell-Wandler wie der FT232RL, CH340G oder CP2102 verwendet.  
 
 In einem \ac{OBD}-II Bluetooth-/WLAN-Stick kommt im Kern ebenfalls ein ELM327- oder STN-Chip zum Einsatz. Dessen UART-Schnittstelle wird jedoch nicht mit USB, sondern mit einem Funkmodul verbunden, beispielsweise einem HC-05 oder RN-42 für Bluetooth Classic, einem HM-10 oder ESP32 für Bluetooth Low Energy oder einem ESP8266/ESP32 für WiFi. Beide Ansätze lassen sich somit kostengünstig mit handelsüblicher Hardware realisieren und bieten eine flexible Auswahl je nach Einsatzumgebung.
 
@@ -59,7 +59,7 @@ Die Benutzeroberfläche des Diagnosesystems läuft unter Windows, sodass die Wer
 
 
 
-Abbildung \ref{fig:placeholder} zeigt die Gesamtarchitektur des Systems sowie die wichtigsten Funktionsbausteine im Überblick.
+\textbf{Abb. \ref{fig:placeholder}} zeigt die Gesamtarchitektur des Systems sowie die wichtigsten Funktionsbausteine im Überblick.
 
 
 \subsection{KI-Ansatz \& Erklärbarkeit}
@@ -91,7 +91,7 @@ Die Kfz-Werkstattbranche in Deutschland befindet sich in einem komplexen Marktum
     \label{fig:verschleiss}
 \end{figure}
 
-Ein Blick auf die Entwicklung der Verschleißkosten pro Pkw (Abb. \ref{fig:verschleiss}) in Deutschland zwischen 1990 und 2024 verdeutlicht, dass sich diese im Zeitverlauf nur geringfügig verändert haben. Nach einem kontinuierlichen Anstieg bis zum Jahr 2012, in dem mit 215 Euro ein Höhepunkt erreicht wurde, sind die Kosten in den darauffolgenden Jahren wieder gesunken und pendeln sich aktuell bei etwa 150 bis 180 Euro ein. Dies deutet darauf hin, dass Verschleißteile durch technologische Fortschritte langlebiger geworden sind und ein intensiver Wettbewerb im Ersatzteilmarkt für stabile Preise sorgt. Für Werkstätten bedeutet dies, dass das klassische Ersatzteilgeschäft nur begrenztes Wachstumspotenzial bietet und nicht mehr als Haupttreiber für Umsatzsteigerungen betrachtet werden kann. \citep[vgl.][]{zdk2025verschleiss}
+Ein Blick auf die Entwicklung der Verschleißkosten pro Pkw (\textbf{Abb. \ref{fig:verschleiss}}) in Deutschland zwischen 1990 und 2024 verdeutlicht, dass sich diese im Zeitverlauf nur geringfügig verändert haben. Nach einem kontinuierlichen Anstieg bis zum Jahr 2012, in dem mit 215 Euro ein Höhepunkt erreicht wurde, sind die Kosten in den darauffolgenden Jahren wieder gesunken und pendeln sich aktuell bei etwa 150 bis 180 Euro ein. Dies deutet darauf hin, dass Verschleißteile durch technologische Fortschritte langlebiger geworden sind und ein intensiver Wettbewerb im Ersatzteilmarkt für stabile Preise sorgt. Für Werkstätten bedeutet dies, dass das klassische Ersatzteilgeschäft nur begrenztes Wachstumspotenzial bietet und nicht mehr als Haupttreiber für Umsatzsteigerungen betrachtet werden kann. \citep[vgl.][]{zdk2025verschleiss}
 
 \begin{figure}[h!]
     \centering
@@ -100,7 +100,7 @@ Ein Blick auf die Entwicklung der Verschleißkosten pro Pkw (Abb. \ref{fig:versc
     \label{fig:aufwand}
 \end{figure}
 
-Deutlich dynamischer stellt sich hingegen die Entwicklung der Wartungskosten dar (Abb. \ref{fig:aufwand}). Während diese 1990 noch bei 165 Euro pro Fahrzeug lagen, stiegen sie bis 2024 auf knapp 390 Euro an. Besonders in den letzten Jahren hat sich die Kurve stark nach oben entwickelt. Ursache hierfür ist die wachsende technische Komplexität moderner Fahrzeuge, die zunehmend mit elektronischen Steuerungen, Softwarelösungen und Fahrerassistenzsystemen ausgestattet sind. Für Werkstätten entsteht hieraus ein erhebliches Umsatzpotenzial, gleichzeitig jedoch auch ein wachsender Kostendruck auf die Kunden, die mit höheren Rechnungsbeträgen konfrontiert werden. Daraus resultiert eine zunehmende Preissensibilität, die den Wettbewerb zwischen Werkstätten verschärft. \citep[vgl.][]{zdk2025wartungsaufwand}
+Deutlich dynamischer stellt sich hingegen die Entwicklung der Wartungskosten dar (\textbf{Abb. \ref{fig:aufwand}}). Während diese 1990 noch bei 165 Euro pro Fahrzeug lagen, stiegen sie bis 2024 auf knapp 390 Euro an. Besonders in den letzten Jahren hat sich die Kurve stark nach oben entwickelt. Ursache hierfür ist die wachsende technische Komplexität moderner Fahrzeuge, die zunehmend mit elektronischen Steuerungen, Softwarelösungen und Fahrerassistenzsystemen ausgestattet sind. Für Werkstätten entsteht hieraus ein erhebliches Umsatzpotenzial, gleichzeitig jedoch auch ein wachsender Kostendruck auf die Kunden, die mit höheren Rechnungsbeträgen konfrontiert werden. Daraus resultiert eine zunehmende Preissensibilität, die den Wettbewerb zwischen Werkstätten verschärft. \citep[vgl.][]{zdk2025wartungsaufwand}
 
 \begin{figure}[h!]
     \centering

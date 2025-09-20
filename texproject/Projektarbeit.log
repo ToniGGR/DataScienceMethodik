@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.22)  13 SEP 2025 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.22)  17 SEP 2025 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1386,12 +1386,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-<images/Hardware/obd_cable.JPG, id=539, 1238.91429pt x 825.94286pt>
+<images/Hardware/obd_cable.JPG, id=538, 1238.91429pt x 825.94286pt>
 File: images/Hardware/obd_cable.JPG Graphic file (type jpg)
 <use images/Hardware/obd_cable.JPG>
 Package pdftex.def Info: images/Hardware/obd_cable.JPG  used on input line 28.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<images/Hardware/obd_wifi.JPG, id=540, 1238.91429pt x 825.94286pt>
+<images/Hardware/obd_wifi.JPG, id=539, 1238.91429pt x 825.94286pt>
 File: images/Hardware/obd_wifi.JPG Graphic file (type jpg)
 <use images/Hardware/obd_wifi.JPG>
 Package pdftex.def Info: images/Hardware/obd_wifi.JPG  used on input line 35.
@@ -1405,7 +1405,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./images/Hardware/obd_cable.JPG> <./images/Hardware/obd_wifi.JPG>]
+[3]
 Overfull \hbox (1.70381pt too wide) in paragraph at lines 49--50
 []\T1/ptm/m/n/12 Die Ag-gre-ga-ti-on al-ler er-fass-ten In-for-ma-tio-nen er-folgt in der Cloud. Dort ana-ly-sie-ren KI-Modelle
  []
@@ -1416,6 +1416,9 @@ File: images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png Graphic file 
 Package pdftex.def Info: images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png  used on input line 53.
 (pdftex.def)             Requested size: 455.24411pt x 303.49248pt.
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1424,7 +1427,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4 <./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png (PNG copy)>]
+[4 <./images/Hardware/obd_cable.JPG> <./images/Hardware/obd_wifi.JPG>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1433,7 +1436,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5]
+[5 <./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png (PNG copy)>]
 Overfull \hbox (0.33496pt too wide) in paragraph at lines 77--78
 []\T1/ptm/m/n/12 Ein wei-te-rer we-sent-li-cher Be-stand-teil der Ar-chi-tek-tur ist die kon-ti-nu-ier-li-che Ver-bes-se-rung. Neue
  []
@@ -1448,12 +1451,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png, id=568, 1003.75pt x 745.78625pt>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+<images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png, id=573, 1003.75pt x 745.78625pt>
 File: images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png Graphic file (type png)
 <use images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png>
 Package pdftex.def Info: images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png  used on input line 89.
 (pdftex.def)             Requested size: 341.43307pt x 253.68915pt.
-<images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png, id=577, 1003.75pt x 745.78625pt>
+<images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png, id=582, 1003.75pt x 745.78625pt>
 File: images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png Graphic file (type png)
 <use images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png>
 Package pdftex.def Info: images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png  used on input line 98.
@@ -1471,8 +1483,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <./images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png>]
-<images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png, id=592, 1099.10625pt x 752.8125pt>
+[8 <./images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png>]
+<images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png, id=596, 1099.10625pt x 752.8125pt>
 File: images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png Graphic file (type png)
 <use images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png>
 Package pdftex.def Info: images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png  used on input line 107.
@@ -1486,13 +1498,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png> <./images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png>]
-<images/wettbewerb/fach_engpass.png, id=605, 1192.455pt x 268.00125pt>
+[9 <./images//wettbewerb/statistic_id39415_wartungsaufwand-pro-pkw-in-deutschland-bis-2024.png> <./images//wettbewerb/Statista-Market-Insights--Automobile-Weltweit--Absatz-nach-Segmenten.png>]
+<images/wettbewerb/fach_engpass.png, id=609, 1192.455pt x 268.00125pt>
 File: images/wettbewerb/fach_engpass.png Graphic file (type png)
 <use images/wettbewerb/fach_engpass.png>
 Package pdftex.def Info: images/wettbewerb/fach_engpass.png  used on input line 118.
 (pdftex.def)             Requested size: 318.66948pt x 71.61703pt.
-<images/wettbewerb/legnde_fach.png, id=606, 312.41719pt x 134.00063pt>
+<images/wettbewerb/legnde_fach.png, id=610, 312.41719pt x 134.00063pt>
 File: images/wettbewerb/legnde_fach.png Graphic file (type png)
 <use images/wettbewerb/legnde_fach.png>
 Package pdftex.def Info: images/wettbewerb/legnde_fach.png  used on input line 125.
@@ -1516,7 +1528,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9 <./images/wettbewerb/fach_engpass.png> <./images/wettbewerb/legnde_fach.png>]
+[10 <./images/wettbewerb/fach_engpass.png> <./images/wettbewerb/legnde_fach.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 139--144
 
  []
@@ -1535,7 +1547,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10])
+[11])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1544,7 +1556,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
+[12]
 \openout2 = `chapter/Max.aux'.
 
  (./chapter/Max.tex
@@ -1574,7 +1586,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12
+[13
 
 
 
@@ -1607,7 +1619,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[14{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Package acronym Info: Label `acro:CI/CD' newly defined as it shall be overridden
 although it is yet undefined on input line 27.
 
@@ -1639,7 +1651,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[15]
 Overfull \hbox (5.19618pt too wide) in paragraph at lines 39--40
 []\T1/ptm/m/n/12 Go-to-Market: DACH-Pilotierung mit Re-fe-ren-zen, dann West-eu-ro-pa; Content- und Performance-
  []
@@ -1661,7 +1673,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
+[16]
 Overfull \hbox (0.65622pt too wide) in paragraph at lines 55--56
 \T1/ptm/m/n/12 CAN und Zu-satz-mess-ge-rä-te, Cloud[]Verarbeitung mit Da-ten-har-mo-ni-sie-rung, Mo-dell-trai-ning und
  []
@@ -1685,7 +1697,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
+[17]
 Overfull \hbox (2.93622pt too wide) in paragraph at lines 67--68
 \T1/ptm/m/n/12 um-fang, Nut-zer-sit-zen und [][] ist durch Markt-wachs-tum in Dia-gno-s-tik und Remote-Diagnostics
  []
@@ -1729,15 +1741,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [18]
 
 
@@ -1748,6 +1751,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
 Overfull \hbox (2.73294pt too wide) in paragraph at lines 112--113
 \T1/ptm/m/n/12 adres-sie-ren Pi-lot-kun-den und Ziel-seg-men-te di-rekt, or-che-strie-ren De-mos, Test-stel-lun-gen und kom-
  []
@@ -1766,7 +1778,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
+[21]
 Package acronym Info: Label `acro:ML' newly defined as it shall be overridden
 although it is yet undefined on input line 118.
 
@@ -1783,7 +1795,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21])
+[22])
 \openout2 = `chapter/Anton.aux'.
 
  (./chapter/Anton.tex
@@ -1800,12 +1812,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22
+[23
 
 
 
 ]
-<images/RoadMap.png, id=793, 1148.29pt x 436.63126pt>
+<images/RoadMap.png, id=797, 1148.29pt x 436.63126pt>
 File: images/RoadMap.png Graphic file (type png)
 <use images/RoadMap.png>
 Package pdftex.def Info: images/RoadMap.png  used on input line 34.
@@ -1819,7 +1831,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[23 <./images/RoadMap.png>]
+[24 <./images/RoadMap.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 51--57
 
  []
@@ -1833,7 +1845,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[24]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
@@ -1852,7 +1864,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[25]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
@@ -1871,7 +1883,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26]
+[27]
 Overfull \hbox (12.16302pt too wide) in paragraph at lines 121--122
 \T1/ptm/m/n/12 Die stra-te-gi-sche Aus-rich-tung des Ge-schäfts-mo-dells ba-siert auf ei-ner um-fas-sen-den SWOT-Analyse,
  []
@@ -1885,7 +1897,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27]
+[28]
 Overfull \hbox (2.31033pt too wide) in paragraph at lines 145--146
 \T1/ptm/m/n/12 gen Werk-stätten ein Pro-dukt kau-fen was bei zwei Ver-trieb-lern rea-lis-tisch ist ([][]ZDK[][], [][]2025a[][]).
  []
@@ -1899,7 +1911,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28]
+[29]
 Overfull \hbox (9.88112pt too wide) in paragraph at lines 154--155
 []\T1/ptm/m/n/12 Modelltraining (A100): \T1/ptm/b/n/12 819,25\TS1/ptm/b/n/12 ¿ \T1/ptm/m/n/12 (25 Stun-den bei 32,77\TS1/ptm/m/n/12 ¿\T1/ptm/m/n/12 /h) ([][]Da-ta-crunch[][], [][]2025[][]). 
  []
@@ -1913,18 +1925,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29]
-<images/Umsatz und Jahresueberschuss.png, id=873, 1468.48625pt x 557.08125pt>
+[30]
+<images/Umsatz und Jahresueberschuss.png, id=877, 1468.48625pt x 557.08125pt>
 File: images/Umsatz und Jahresueberschuss.png Graphic file (type png)
 <use images/Umsatz und Jahresueberschuss.png>
 Package pdftex.def Info: images/Umsatz und Jahresueberschuss.png  used on input line 174.
 (pdftex.def)             Requested size: 426.79134pt x 161.90643pt.
-<images/Personalplanungen.png, id=875, 976.64874pt x 601.24625pt>
+<images/Personalplanungen.png, id=879, 976.64874pt x 601.24625pt>
 File: images/Personalplanungen.png Graphic file (type png)
 <use images/Personalplanungen.png>
 Package pdftex.def Info: images/Personalplanungen.png  used on input line 186.
 (pdftex.def)             Requested size: 426.79134pt x 262.74182pt.
-<images/Cash Flow per Zeit.png, id=876, 1551.7975pt x 468.75125pt>
+<images/Cash Flow per Zeit.png, id=880, 1551.7975pt x 468.75125pt>
 File: images/Cash Flow per Zeit.png Graphic file (type png)
 <use images/Cash Flow per Zeit.png>
 Package pdftex.def Info: images/Cash Flow per Zeit.png  used on input line 195.
@@ -1938,7 +1950,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[30 <./images/Umsatz und Jahresueberschuss.png>]
+[31 <./images/Umsatz und Jahresueberschuss.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1947,18 +1959,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31 <./images/Personalplanungen.png> <./images/Cash Flow per Zeit.png>]
-<images/Deckungsbeitrag Hochlauf.png, id=892, 888.31876pt x 372.39125pt>
+[32 <./images/Personalplanungen.png> <./images/Cash Flow per Zeit.png>]
+<images/Deckungsbeitrag Hochlauf.png, id=896, 888.31876pt x 372.39125pt>
 File: images/Deckungsbeitrag Hochlauf.png Graphic file (type png)
 <use images/Deckungsbeitrag Hochlauf.png>
 Package pdftex.def Info: images/Deckungsbeitrag Hochlauf.png  used on input line 215.
 (pdftex.def)             Requested size: 426.79134pt x 178.91055pt.
-<images/Q1 2027 Anteil Umsatz.png, id=893, 296.10625pt x 181.67876pt>
+<images/Q1 2027 Anteil Umsatz.png, id=897, 296.10625pt x 181.67876pt>
 File: images/Q1 2027 Anteil Umsatz.png Graphic file (type png)
 <use images/Q1 2027 Anteil Umsatz.png>
 Package pdftex.def Info: images/Q1 2027 Anteil Umsatz.png  used on input line 229.
 (pdftex.def)             Requested size: 204.85846pt x 125.69667pt.
-<images/Q4 2028 Anteil Umsatz.png, id=894, 296.10625pt x 181.67876pt>
+<images/Q4 2028 Anteil Umsatz.png, id=898, 296.10625pt x 181.67876pt>
 File: images/Q4 2028 Anteil Umsatz.png Graphic file (type png)
 <use images/Q4 2028 Anteil Umsatz.png>
 Package pdftex.def Info: images/Q4 2028 Anteil Umsatz.png  used on input line 237.
@@ -1972,8 +1984,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32 <./images/Deckungsbeitrag Hochlauf.png> <./images/Q1 2027 Anteil Umsatz.png> <./images/Q4 2028 Anteil Umsatz.png>]
-<images/Kapital.png, id=904, 936.49875pt x 372.39125pt>
+[33 <./images/Deckungsbeitrag Hochlauf.png> <./images/Q1 2027 Anteil Umsatz.png> <./images/Q4 2028 Anteil Umsatz.png>]
+<images/Kapital.png, id=908, 936.49875pt x 372.39125pt>
 File: images/Kapital.png Graphic file (type png)
 <use images/Kapital.png>
 Package pdftex.def Info: images/Kapital.png  used on input line 256.
@@ -1987,8 +1999,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33 <./images/Kapital.png>]
-<images/SWOT.png, id=910, 854.19125pt x 824.07875pt>
+[34 <./images/Kapital.png>]
+<images/SWOT.png, id=914, 854.19125pt x 824.07875pt>
 File: images/SWOT.png Graphic file (type png)
 <use images/SWOT.png>
 Package pdftex.def Info: images/SWOT.png  used on input line 267.
@@ -2012,7 +2024,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[34 <./images/SWOT.png>]
+[35 <./images/SWOT.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2021,7 +2033,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[35]
+[36]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 328.
@@ -4945,15 +4957,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [37]
 
 
@@ -5081,6 +5084,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [51]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52]
 \openout2 = `chapter/30_anhang.aux'.
 
 
@@ -5179,7 +5191,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52
+[53
 
 
 
@@ -5244,7 +5256,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53])
+[54])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -5253,7 +5265,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54]
+[55]
 \openout2 = `pages/19_index.aux'.
 
  (./pages/19_index.tex (./Projektarbeit.ind))
@@ -5261,16 +5273,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./pages/20_erklaerung.tex
 
-[55
+[56
 
 
 
 
 ]
 
-[56]
+[57]
 
-[57])
+[58])
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
@@ -5289,18 +5301,18 @@ Package rerunfilecheck Info: File `Projektarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 336998E0A90E3F5C6F05B5C55F5C7270;12987.
  ) 
 Here is how much of TeX's memory you used:
- 28226 strings out of 473207
- 496080 string characters out of 5716288
- 1455218 words of memory out of 5000000
+ 28227 strings out of 473207
+ 496087 string characters out of 5716288
+ 1455223 words of memory out of 5000000
  50680 multiletter control sequences out of 15000+600000
  608974 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,13n,107p,2535b,765s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Projektarbeit.pdf (63 pages, 31321554 bytes).
+Output written on Projektarbeit.pdf (64 pages, 31321739 bytes).
 PDF statistics:
- 1165 PDF objects out of 1200 (max. 8388607)
- 1039 compressed objects within 11 object streams
- 237 named destinations out of 1000 (max. 500000)
+ 1169 PDF objects out of 1200 (max. 8388607)
+ 1042 compressed objects within 11 object streams
+ 238 named destinations out of 1000 (max. 500000)
  638 words of extra memory for PDF output out of 10000 (max. 10000000)
 

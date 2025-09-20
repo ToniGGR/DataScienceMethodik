@@ -466,35 +466,35 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT ./images/Hardware/obd_cable.JPG
+INPUT ./images/Hardware/obd_cable.JPG
+INPUT ./images/Hardware/obd_cable.JPG
+INPUT ./images/Hardware/obd_cable.JPG
+INPUT ./images/Hardware/obd_cable.JPG
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT ./images/Hardware/obd_wifi.JPG
+INPUT ./images/Hardware/obd_wifi.JPG
+INPUT ./images/Hardware/obd_wifi.JPG
+INPUT ./images/Hardware/obd_wifi.JPG
+INPUT ./images/Hardware/obd_wifi.JPG
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT ./images/Hardware/obd_cable.JPG
-INPUT ./images/Hardware/obd_cable.JPG
-INPUT ./images/Hardware/obd_cable.JPG
-INPUT ./images/Hardware/obd_cable.JPG
-INPUT ./images/Hardware/obd_cable.JPG
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT ./images/Hardware/obd_wifi.JPG
-INPUT ./images/Hardware/obd_wifi.JPG
-INPUT ./images/Hardware/obd_wifi.JPG
-INPUT ./images/Hardware/obd_wifi.JPG
-INPUT ./images/Hardware/obd_wifi.JPG
+INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
+INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
+INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
+INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
+INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
-INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
-INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
-INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
-INPUT ./images//Hardware/ChatGPT Image Aug 31, 2025, 04_03_25 PM.png
 INPUT ./images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png
 INPUT ./images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png
 INPUT ./images//wettbewerb/statistic_id39416_aufwand-fuer-verschleiss-pro-pkw-in-deutschland-2024.png
