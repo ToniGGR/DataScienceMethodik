@@ -1,5 +1,9 @@
 % makeindex style file created by the glossaries package
+<<<<<<< HEAD
 % for document 'Projektarbeit' on 2025-9-17
+=======
+% for document 'Projektarbeit' on 2025-9-18
+>>>>>>> 7791e99ac6abbb516d4dc4e942fc9becf6905f98
 actual '?'
 encap '|'
 level '!'
@@ -27,3 +31,5 @@ heading_suffix "\}\\relax \\glsresetentrylist "
 symhead_positive "glssymbols"
 numhead_positive "glsnumbers"
 page_compositor "."
+suffix_2p ""
+suffix_3p ""

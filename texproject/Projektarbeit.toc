@@ -1,11 +1,12 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{Abkürzungsverzeichnis}{V}{section*.1}%
-\contentsline {section}{Abbildungsverzeichnis}{VI}{section*.2}%
+\contentsline {section}{Abkürzungsverzeichnis}{IV}{section*.1}%
+\contentsline {section}{Abbildungsverzeichnis}{V}{section*.2}%
 \contentsline {section}{\numberline {1}Executive Summary}{1}{section.1}%
 \contentsline {section}{\numberline {2}Produkt \& Dienstleistung}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Problem \& Nutzenversprechen}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Produktübersicht: Hardware + Cloud-Software}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}KI-Ansatz \& Erklärbarkeit}{5}{subsection.2.3}%
+<<<<<<< HEAD
 \contentsline {section}{\numberline {3}Markt und Wettbewerb}{8}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Wettbewerbsumfeld und potentielle Konkurrenten}{11}{subsection.3.1}%
 \contentsline {section}{\numberline {4}Marketing und Vertrieb}{13}{section.4}%
@@ -68,3 +69,37 @@
 \contentsline {section}{Selbständigkeitserklärung Max Müller}{56}{section*.58}%
 \contentsline {section}{Selbständigkeitserklärung Jeremy Barenkamp}{57}{section*.58}%
 \contentsline {section}{Selbständigkeitserklärung Anton Geiger}{58}{section*.58}%
+=======
+\contentsline {section}{\numberline {3}Markt und Wettbewerb}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Wettbewerbsumfeld und potentielle Konkurrenten}{10}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Marketing und Vertrieb}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ausgangslage und Positionierung}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Business Model Canvas}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Das Magische Dreieck des Geschäftsmodells}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Marketing-Mix (4P) für KARL}{16}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Geschäftsmodell und Organisation}{16}{section.5}%
+\contentsline {section}{\numberline {6}Team}{18}{section.6}%
+\contentsline {section}{\numberline {7}Realisierungsplan}{20}{section.7}%
+\contentsline {section}{\numberline {8}Chancen und Risiken}{22}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Produkt}{22}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Markt}{22}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Rechtliche Aspekte}{23}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Wettbewerber}{24}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Marketing \& Vertrieb}{24}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Finanzierung}{24}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Strategische Ausrichtung}{25}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Finanzplan}{26}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Hintergr"unde und Annahmen}{26}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Ertragsmodell}{26}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Annahmen}{26}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}Gewinn und Verlustrechnung}{27}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Personalkosten}{28}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Cashflow Planungen}{29}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Profitabilit"at}{30}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Kapitalverlauf}{31}{subsection.9.6}%
+\contentsline {section}{\numberline {10}Anhang}{32}{section.10}%
+\contentsline {section}{Literatur}{50}{section*.55}%
+\contentsline {section}{Selbständigkeitserklärung Max Müller}{53}{section*.55}%
+\contentsline {section}{Selbständigkeitserklärung Jeremy Barenkamp}{54}{section*.55}%
+\contentsline {section}{Selbständigkeitserklärung Anton Geiger}{55}{section*.55}%
+>>>>>>> 7791e99ac6abbb516d4dc4e942fc9becf6905f98
